@@ -1,0 +1,46 @@
+body {
+  background-color: burlywood;
+  color: rebeccapurple;
+}
+
+header {
+  background-color: blanchedalmond;
+  color: silver;
+}
+
+section {
+  background-color: khaki;
+  color: darkcyan;
+}
+
+#about {
+  background-color: blueviolet;
+}
+
+#boxmodel {
+  background-color: violet;
+}
+
+#units {
+  background-color: rosybrown;
+}
+
+#fonts {
+  background-color: aqua;
+}
+
+section.codebox {
+  background-color: white;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
+  background-color: black;
+}
+
+nav > li {
+  color: yellow;
+}
